@@ -1,0 +1,16 @@
+-16
+[15, 10]
+[1, 4]
+U
+East Hallway
+This narrow hallway looks like it's being rennovated. Watch your step!
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+;	-	-	-	-	-	-	-	-	-	-	-	-	-	'
+|	n	n	n	n	n	h	n	n	H	n	n	H	n	|
+n	n	n	n	H	n	2	2	n	h	H	n	n	n	n
+|	2	h	2	2	n	n	n	n	n	n	n	h	H	|
+|	n	n	2	n	n	n	n	2	2	H	n	2	n	|
+,	-	-	-	-	-	-	-	-	-	-	-	-	-	.
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n

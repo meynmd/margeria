@@ -1,0 +1,16 @@
+-6
+[15, 10]
+[1,4]
+L
+Heart Room
+A stream of water flows through this underground passage. As a young prince, you never bothered to learn how to swim, which is now unfortunate, since you see a treasure chest across the water. Maybe there's another way to get to it.
+;	-	-	-	-	-	-	-	-	L	R	-	n	-	'
+|	n	n	n	n	n	n	n	n	L	R	n	n	n	|
+|	n	n	n	n	n	n	n	n	L	R	n	n	n	|
+|	n	n	n	n	n	n	n	n	L	R	n	n	n	|
+n	n	n	n	n	n	n	n	n	L	R	n	n	n	|
+,	-	'	n	n	n	n	n	n	L	R	n	n	n	|
+n	n	,	-	'	n	n	n	n	L	R	n	n	n	|
+n	n	n	n	,	'	n	n	n	L	R	n	n	n	|
+n	n	n	n	n	|	n	n	n	L	R	n	n	n	|
+n	n	n	n	n	,	-	-	-	-	-	-	-	-	.

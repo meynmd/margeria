@@ -1,0 +1,16 @@
+-17
+[15, 10]
+[1, 4]
+L
+East Tower
+You've never been in this room before. It's a plain little room with four braziers, one in each corner.
+;	-	-	-	-	-	-	-	-	-	-	-	-	-	'
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+,	-	-	-	-	-	-	-	-	-	-	-	-	-	.

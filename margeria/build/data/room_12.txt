@@ -1,0 +1,16 @@
+-12
+[15, 10]
+[7, 8]
+
+Key room
+You've entered a broom closet. It's very dark and doesn't look like there's much here.
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	;	-	-	-	-	-	'	n	n	n	n
+n	n	n	n	|	n	n	n	n	n	|	n	n	n	n
+n	n	n	n	|	n	n	n	n	n	|	n	n	n	n
+n	n	n	n	|	n	n	n	n	n	|	n	n	n	n
+n	n	n	n	|	n	n	n	n	n	|	n	n	n	n
+n	n	n	n	|	n	n	n	n	n	|	n	n	n	n
+n	n	n	n	|	n	n	n	n	n	|	n	n	n	n
+n	n	n	n	,	-	-	n	-	-	.	n	n	n	n

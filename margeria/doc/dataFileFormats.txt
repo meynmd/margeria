@@ -1,0 +1,25 @@
+Container Files should be in the following format:
+
+Name	RoomId	(x,y)	L | U	KeyRoomId	(keyX,keyY)
+
+
+
+Door (RoomExit) Files in this format:
+
+Name	RoomId	(x,y)	DestRoomId	(destX,destY)	L | U	keyRoomId	(keyX,keyY)
+
+If door not locked, keyRoomId and (keyX,keyY) are not necessary.
+
+
+
+Animation Files have a 5 line header:
+
+# of frames
+delay before start
+delay between frames
+delay at end
+[xDimension,yDimension]
+
+where delays are in milliseconds, and dimensions are in game tiles.
+
+Frames begin immediately below header, with one empty line between frames.

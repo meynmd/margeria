@@ -1,0 +1,17 @@
+-10
+[15, 10]
+[12, 4]
+L
+Another transition room
+A stream of water flows through this underground passage. Unfortunately, as a young prince, you never bothered to learn how to swim, so you'll have to find another way if you want to get across.
+n	n	n	;	-	-	-	-	-	-	-	-	-	-	'
+n	n	;	.	n	n	n	n	n	L	R	n	n	n	|
+n	n	|	n	n	n	n	n	n	L	R	n	n	n	|
+;	-	.	n	n	n	n	n	n	L	R	n	n	n	|
+n	n	n	n	n	n	n	n	n	L	R	n	n	n	n
+|	n	n	n	n	n	n	n	n	L	R	n	n	n	|
+|	n	n	n	n	n	n	n	n	L	R	n	n	n	|
+|	n	n	n	n	n	n	n	n	L	R	F	n	n	|
+|	n	n	n	n	n	n	n	n	L	R	n	n	n	|
+,	-	-	-	-	-	-	-	-	L	R	-	n	-	.
+

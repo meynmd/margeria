@@ -1,0 +1,17 @@
+Room file format:
+
+Header
+
+Line 1			Room ID number (negative int)
+Line 2			[x-dimension, y-dimension]
+Line 3			[x-start-coord, y-start-coord]
+Line 4			room-name
+Line 5			room-description
+
+Body (Lines 6-End) is a grid of symbols separated by tabs. The symbols are as follows:
+
+|				Vertical Wall
+-				Horizontal Wall
+\				Diagonal Wall (UL->LR)
+/				Diagonal Wall (UR->LL)
+n				Null (Empty Space)

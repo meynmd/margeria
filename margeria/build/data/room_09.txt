@@ -1,0 +1,16 @@
+-9
+[15, 10]
+[7, 8]
+L
+The kitchen
+You enter what looks like a kitchen. You immediately notice the pleasant aroma that seems to be coming from a boiling pot.
+;	-	-	-	-	-	-	-	-	-	-	-	-	-	'
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+,	-	-	-	-	-	-	n	-	-	-	-	-	-	.

@@ -1,0 +1,16 @@
+-18
+[15, 10]
+[7, 8]
+U
+Guest Quarters
+You enter the solar of the castle. Up toward the opposite side of the room, you think you can make out the outline of a door. Apparently there's only one way out, but this room looks like it's falling apart.
+;	-	-	-	-	-	-	n	-	-	-	-	-	-	'
+|	H	n	n	n	n	h	n	n	n	n	n	n	n	|
+|	n	n	h	n	n	h	h	H	h	H	h	n	h	|
+|	H	h	H	h	n	n	n	H	n	n	H	n	n	|
+|	n	n	n	n	n	h	n	h	n	n	n	n	n	|
+|	n	2	2	n	n	h	n	n	H	n	2	2	h	|
+|	n	n	h	n	n	h	H	h	n	n	n	n	n	|
+|	n	H	h	H	h	H	n	2	2	h	H	h	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+,	-	-	-	-	-	-	n	-	-	-	-	-	-	.

@@ -1,0 +1,16 @@
+-1
+[15, 10]
+[11, 8]
+L
+Cell
+You get up off the cold hard floor of the tiny cell in the castle dungeon. By the light of a single candle in the corner, you can see the heavy wooden crate which you have been using as a writing desk to compose secret letters to your loyal supporters. Across the room is the locked door. At the opposite corner, foul-smelling air flows through a tiny barred window.
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	;	n	-	-	-	'
+n	n	n	n	n	n	n	n	n	|	n	n	C	n	|
+n	n	n	n	n	n	n	n	n	|	n	n	n	n	|
+n	n	n	n	n	n	n	n	n	|	n	n	n	n	|
+n	n	n	n	n	n	n	n	n	|	n	n	n	n	|
+n	n	n	n	n	n	n	n	n	|	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	,	-	-	-	-	.

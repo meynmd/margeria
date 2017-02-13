@@ -1,0 +1,16 @@
+-15
+[15, 10]
+[7, 8]
+L
+Foyer
+The stairs lead to a side door of a grand reception room. There are doors to either side and more stairs in front of you leading to another level of the castle.
+;	-	-	-	-	-	-	n	-	-	-	-	-	-	'
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+,	-	-	-	-	-	-	n	-	-	-	-	-	-	.

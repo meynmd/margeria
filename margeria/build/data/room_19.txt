@@ -1,0 +1,16 @@
+-19
+[15, 10]
+[7, 8]
+L
+Royal Bedroom
+You enter a grand bedroom. You see in front of you some chairs, and beyond those, a luxurious-looking bed. Although you are quite sore from sleeping on the floor these past days, you decide against taking a nap here. You notice an imposing door at the other end of the room.
+;	-	-	-	-	-	-	-	-	-	-	-	-	-	'
+|	n	n	l	r	n	n	n	n	n	n	n	n	n	|
+|	n	n	b	y	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+,	-	-	-	-	-	-	n	-	-	-	-	-	-	.

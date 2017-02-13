@@ -1,0 +1,16 @@
+-8
+[15, 10]
+[13, 4]
+L
+Room Eight
+You enter a room with four statues. It looks like you could ROTATE them if you tried. On a closer look, you notice there is a message etched into the bottom of each statue: "To find your answer you must look inward."
+;	-	-	-	-	-	-	n	-	-	-	-	-	-	'
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+,	-	-	-	-	-	-	-	-	-	-	-	-	-	.

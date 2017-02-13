@@ -1,0 +1,17 @@
+-3
+[15, 10]
+[1, 4]
+
+More Sewer
+You enter another part of the sewers. At least this section has sturdier floors.
+;	-	-	-	-	-	-	-	-	-	-	-	-	-	'
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+|	n	n	n	n	n	n	n	n	h	n	n	n	n	|
+|	n	n	n	n	n	n	F	n	H	n	n	n	n	|
+<	>	<	>	<	>	<	>	<	>	<	>	<	>	|
+)	(	)	(	)	(	)	(	)	(	)	(	)	(	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+|	n	n	F	n	n	n	n	n	n	n	n	n	n	|
+,	-	-	-	-	-	-	-	-	-	-	-	-	-	.
+

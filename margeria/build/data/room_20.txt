@@ -1,0 +1,16 @@
+-20
+[15, 10]
+[1, 4]
+L
+Garden Exit
+Ah, yes! At the other end of this room is the cleverly hidden exit the king used to use to slip out of the palace into the East Garden for a smoke. Now, where is the key to that door?
+;	-	-	-	-	-	-	-	-	-	-	-	-	-	'
+|	n	n	n	n	2	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	2	2	2	2	n	n	n	n	|
+|	n	n	n	2	n	n	n	n	n	n	2	n	n	|
+n	n	n	n	n	n	2	n	2	n	n	n	n	n	|
+|	n	n	2	n	n	n	n	n	n	2	n	n	n	|
+|	n	n	n	n	2	2	2	2	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	2	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+,	-	-	-	-	-	-	-	-	-	-	-	-	-	.

@@ -1,0 +1,18 @@
+-21
+[17, 12]
+[1, 1]
+L
+Garden
+The exquisite palace gardens have been admired by visitors from around the world. But who left all these boxes lying around? Looks like you'll have to do some tidying up around here...
+;	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	'
+n	n	m	n	n	n	n	n	n	MB	n	n	n	m	n	n	n
+|	n	m	m	n	m	m	m	n	n	n	n	MB	m	n	n	m
+|	n	n	n	n	MB	n	m	m	m	m	MB	m	m	m	m	m
+|	m	m	m	m	m	n	n	n	MB	MB	MB	n	n	n	n	m
+|	n	n	n	n	m	m	n	m	n	n	m	m	m	n	m	m
+|	n	m	n	n	n	m	n	m	m	n	m	n	n	n	n	m
+|	n	m	m	m	n	n	n	m	n	n	n	n	m	m	m	m
+|	n	MB	n	m	m	m	MB	m	m	m	m	m	MB	n	n	m
+|	n	n	n	m	n	n	MB	MB	n	MB	m	n	n	MB	n	m
+|	MB	MB	MB	n	n	n	n	m	n	n	n	n	m	MB	n	n
+|	m	m	m	m	m	m	m	m	m	m	m	m	m	m	m	m

@@ -1,0 +1,16 @@
+-14
+[15, 10]
+[13, 4]
+L
+Transition room
+You enter a room filled with boxes. Surely you could PULL or PUSH some of them out of the way.
+;	-	-	-	-	-	-	-	-	-	-	-	-	-	'
+|	n	n	n	n	n	2	2	2	2	2	n	n	n	|
+|	n	n	n	n	n	2	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	2	2	n	n	n	n	|
+n	n	n	n	n	2	2	n	n	2	n	n	n	n	n
+|	n	n	n	n	n	2	n	n	2	n	n	n	n	|
+|	n	n	n	n	2	n	2	n	2	n	n	n	n	|
+|	n	n	n	2	n	n	n	n	n	n	n	n	n	|
+|	n	n	2	n	n	n	n	n	2	2	2	n	2	|
+,	-	-	-	-	-	-	-	-	-	-	-	-	-	.

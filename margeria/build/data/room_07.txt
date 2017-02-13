@@ -1,0 +1,16 @@
+-7
+[15, 10]
+[13, 4]
+
+Secret Room
+You've found a secret library. It's filled with dusty bookshelves. You notice that one of the bookshelves isn't quite as dusty as the others.
+;	-	-	-	-	-	-	-	-	-	-	-	-	-	'
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+,	-	-	-	-	-	-	-	-	-	-	-	-	-	.

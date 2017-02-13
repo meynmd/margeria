@@ -1,0 +1,16 @@
+-11
+[15, 10]
+[1, 4]
+U
+small maze
+You open the door into a dark, cramped room that seems not to have been used in a while. Where's the exit?
+;	-	-	-	-	-	-	n	-	-	-	-	-	-	'
+|	h	n	n	n	|	|	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	,	-	-	-	-	-	-	n	|
+|	2	2	n	n	n	n	|	H	n	n	2	.	n	|
+n	n	2	n	n	-	n	|	n	n	n	n	n	MB	|
+|	n	2	n	n	|	n	|	-	-	n	2	2	2	|
+|	n	2	n	n	|	n	n	n	n	n	2	n	n	|
+|	n	2	2	n	,	'	n	MB	n	n	2	n	n	|
+|	n	n	n	n	n	|	'	n	n	2	2	n	H	|
+,	-	-	-	-	-	|	.	-	-	-	-	-	-	.

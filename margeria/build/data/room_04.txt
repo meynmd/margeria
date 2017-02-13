@@ -1,0 +1,18 @@
+-4
+[15, 11]
+[1, 4]
+L
+Brazier Puzzle
+You enter an odd square room with two bombs, a treasure chest, and some braziers. Maybe you should try to LIGHT the braziers.
+;	-	-	-	-	-	-	-	-	-	-	-	-	-	'
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+,	-	-	-	-	-	-	-	-	-	-	-	-	-	.
+

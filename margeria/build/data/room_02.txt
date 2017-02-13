@@ -1,0 +1,16 @@
+-2
+[15, 10]
+[7, 8]
+
+sewer
+You emerge into a dark, echoing space. You hear the sound of faintly running water. An intolerable stench fills the royal nostrils. As you blink in the impenetrable darkness, you notice the floor feels exceedingly creaky. You need to get out of here. But to do that, you need a source of light...
+;	-	-	-	-	-	-	n	-	-	-	-	-	-	'
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+|	n	n	n	n	n	n	n	n	n	n	n	n	n	|
+>	<	>	<	>	<	>	<	>	<	>	<	>	<	>
+(	)	(	)	(	)	(	)	(	)	(	)	(	)	(
+|	n	H	n	n	n	n	H	n	n	n	n	n	n	|
+n	n	n	T	n	h	n	n	n	h	n	H	n	n	n
+,	-	-	-	-	-	-	-	-	-	-	-	-	-	.
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
